@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context>
+	<Resource 
+		name="qazxsw"
+		auth="Container"
+		type="javax.sql.DataSource"
+		driverClassName="org.mariadb.jdbc.Driver"
+		url="jdbc:mariadb://34.64.103.198:3306/mts_keyboard"
+		username="Green503"
+		password="Green!"
+	/>
+</Context>

@@ -1,0 +1,60 @@
+@charset "UTF-8";
+   
+   .form-signin {
+     width: 100%;
+     max-width: 330px;
+     padding: 15px;
+     margin: auto;
+     margin-top: 50px;
+   }
+   
+   .form-signin .form-floating:focus-within {
+     z-index: 2;
+     margin-bottom: 20px;
+   }
+   
+   .form-check {
+    	margin-top : 20px;
+    z-index: 2;
+    margin-bottom: 20px;
+   }
+   
+   .form-signin input[type="text"] {
+     margin-bottom: 20px;
+     border-bottom-right-radius: 0;
+     border-bottom-left-radius: 0;
+   }
+   
+   .form-signin input[type="password"] {
+     margin-bottom: 20px;
+     border-top-left-radius: 0;
+     border-top-right-radius: 0;
+   }
+   
+   .form-button{
+   	margin-top: 20px;
+   }
+   .container {
+   	display: block;
+   }
+
+	.col{
+		padding: 1px;
+	}
+   
+   #userId{
+   	width: 243px;
+   	height: 60px;
+   }
+   
+   #tel1{
+   	height: 40px;
+   }
+      #tel2{
+   	height: 40px;
+   }
+         #tel3{
+   	height: 40px;
+   }
+   
+
